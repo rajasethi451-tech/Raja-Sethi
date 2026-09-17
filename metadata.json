@@ -1,0 +1,8 @@
+{
+  "name": "Animal Math Quest: Kids Addition Adventure",
+  "description": "An interactive, colorful animal math guessing and addition game for kids featuring tactile counting, audio rewards, virtual stickers and badges, multi-profile progress tracking, and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
